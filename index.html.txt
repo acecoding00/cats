@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="cats.css"/>
+        <style>
+            .h1 {
+                background-color: rgb(98, 173, 238);
+            }
+        </style>
+
+    </head>
+    <body>
+        <div class="mother">
+            <div class="left">    
+            <div class="logocontainer">
+                    <img src="cat image/cat.jpg" class="logo"/> 
+                    <h1>CATS</h1>
+
+                </div>
+            <div class="letter">
+                
+                <p> Under the title of cats, there are around 40 species of cats all over the world including lion, cheetah, 
+                    tiger, puma, leopard and domestic cats.
+                </p>
+                <h2>Domestic cats</h2>
+                <p>Domestic cats can be classified into 100 or more different species. They were domesticated over 10,000 years
+                    ago. 
+        
+                </p>
+    </div>
+</div>
+            <div class="right">
+                <img src="cat image/group-of-cats-compressed.jpg" class="photo"/>
+            </div>
+    </div>
+
+        
+    </body>
+</html>
